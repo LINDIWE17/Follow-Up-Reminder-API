@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
+.idea/
+
+# Output
+dist/
+build/
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+
+# pnpm-related
+.pnpm-debug.log
